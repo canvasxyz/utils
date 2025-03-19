@@ -4,7 +4,9 @@ export interface JSObject {
 	[key: string]: JSValue
 }
 
-export function typeOf(value: JSValue) {
+export type JSType = "undefined" | "null" | "boolean" | "number" | "string" | "Uint8Array" | "Array" | "Object"
+
+export function typeOf(value: JSValue): JSType {
 	if (value === undefined) {
 		return "undefined"
 	} else if (value === null) {
