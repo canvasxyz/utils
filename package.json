@@ -1,6 +1,7 @@
 {
 	"name": "@canvas-js/utils",
 	"version": "1.0.0",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/canvasxyz/utils.git"
