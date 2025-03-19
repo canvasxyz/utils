@@ -8,6 +8,17 @@ Anything that is only used by a single package should go in that package's src/u
 
 ## Table of contents
 
+- [API](#api)
+  - [`assert`](#assert)
+  - [`signalInvalidType`](#signalinvalidtype)
+  - [`mapEntries`](#mapentries)
+  - [`mapKeys`](#mapkeys)
+  - [`mapValues`](#mapvalues)
+  - [`zip`](#zip)
+  - [`replaceUndefined`](#replaceendefined)
+  - [`stripUndefined`](#stripendefined)
+- [License](#license)
+
 ## API
 
 ### `assert`
