@@ -1,8 +1,12 @@
 # @canvas-js/utils
 
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme) [![license](https://img.shields.io/github/license/joeltg/microcbor)](https://opensource.org/licenses/MIT) [![NPM version](https://img.shields.io/npm/v/microcbor)](https://www.npmjs.com/package/microcbor) ![TypeScript types](https://img.shields.io/npm/types/microcbor)
+
 This repo is for utility methods and types related to JavaScript programming in general.
 
 Anything that is only used by a single package should go in that package's src/utils.ts file; and anything that is related to a specific feature or domain should go in its own utility package.
+
+## Table of contents
 
 ## API
 
