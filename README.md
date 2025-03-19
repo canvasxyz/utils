@@ -1,6 +1,6 @@
 # @canvas-js/utils
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme) [![license](https://img.shields.io/github/license/joeltg/microcbor)](https://opensource.org/licenses/MIT) [![NPM version](https://img.shields.io/npm/v/microcbor)](https://www.npmjs.com/package/microcbor) ![TypeScript types](https://img.shields.io/npm/types/microcbor)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme) [![license](https://img.shields.io/github/license/canvasxyz/utils)](https://opensource.org/licenses/MIT) [![NPM version](https://img.shields.io/npm/v/@canvas-js/utils)](https://www.npmjs.com/package/@canvas-js/utils) ![TypeScript types](https://img.shields.io/npm/types/@canvas-js/utils)
 
 This repo is for utility methods and types related to JavaScript programming in general.
 
