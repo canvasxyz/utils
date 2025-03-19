@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+
+node_modules/
+lib/
+test/lib/
+
+tsconfig.tsbuildinfo
+test/tsconfig.tsbuildinfo
